@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a thrid year cs student at SFU. I am interested in applied AI/ML, backend engineering, data engineering, and quantitative trading.<br><br> 
+Hi, I'm Jim a third-year CS student at SFU. I am interested in applied AI/ML, backend engineering, data engineering, and quantitative trading.<br><br> 
 
 
 ## 🌐 Socials:
